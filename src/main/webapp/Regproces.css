@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+button{
+			border: none;
+			border-radius: 10px;
+			background-color: aqua;
+			padding: 6px;
+		}
+		body{
+			text-align: center;
+			background-color: deepskyblue;
+						padding: 50px;
+		}
